@@ -1,4 +1,4 @@
-# Jornada Ocean Samsung 🚀️
+# Jornada MS - Ocean Samsung 🚀️
 ## O projeto elevador foi desenvolvido na linguagem C# para obtenção do certificado de conclusão do curso Ocean Samsung Brasil.
 
 ## Sobre o projeto ☕💻
