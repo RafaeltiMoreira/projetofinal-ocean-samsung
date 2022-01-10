@@ -1,16 +1,11 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "e6a495f7-ea80-4b99-8177-c9b05608f8dc": {
-      "ProjectGuid": "e6a495f7-ea80-4b99-8177-c9b05608f8dc",
-      "DisplayName": "ProjetoElevador_Documentacao",
-      "ColorIndex": 0
-    },
     "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 0
 }

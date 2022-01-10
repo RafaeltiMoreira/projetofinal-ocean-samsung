@@ -3,8 +3,9 @@
     "",
     "\\ProjetoElevador_Documentacao",
     "\\ProjetoElevador_Documentacao\\Views",
-    "\\ProjetoElevador_Documentacao\\Views\\Home"
+    "\\ProjetoElevador_Documentacao\\Views\\Home",
+    "\\ProjetoElevador_Documentacao\\wwwroot",
+    "\\ProjetoElevador_Documentacao\\wwwroot\\css"
   ],
-  "SelectedNode": "\\ProjetoElevador_Documentacao\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

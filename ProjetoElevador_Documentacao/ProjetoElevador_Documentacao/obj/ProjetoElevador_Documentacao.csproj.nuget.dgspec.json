@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafae\\Documents\\ProjetosC\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj": {}
+    "C:\\Users\\rafae\\Documents\\ProjetosC\\ProjetoElevadorMVC\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafae\\Documents\\ProjetosC\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj": {
+    "C:\\Users\\rafae\\Documents\\ProjetosC\\ProjetoElevadorMVC\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\Documents\\ProjetosC\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\Documents\\ProjetosC\\ProjetoElevadorMVC\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj",
         "projectName": "ProjetoElevador_Documentacao",
-        "projectPath": "C:\\Users\\rafae\\Documents\\ProjetosC\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj",
+        "projectPath": "C:\\Users\\rafae\\Documents\\ProjetosC\\ProjetoElevadorMVC\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\Documents\\ProjetosC\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\obj\\",
+        "outputPath": "C:\\Users\\rafae\\Documents\\ProjetosC\\ProjetoElevadorMVC\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
