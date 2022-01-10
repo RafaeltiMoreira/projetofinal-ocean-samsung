@@ -15,3 +15,17 @@
 
 - C# e
 - Visual Studio.
+
+## Teacher 🎓
+
+- Ótima didática, paciência e conteúdos com o professor Lucas A. Feliciano [![GitHub Badge](https://img.shields.io/badge/-LucasFeliciano-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/LUCASDESENVOLVEDOR/)](https://github.com/LUCASDESENVOLVEDOR/) 
+
+## Screenshots 📷
+
+[![Jornada MS | Ocean Samsung](https://imgur.com/UcxA00U.png)](https://github.com/RafaeltiMoreira/projetofinal-ocean-samsung "Jornada MS | Ocean Samsung")
+
+## Acesse o deploy 🌐
+
+<h3>
+    <a href="http://projetoelevador.azurewebsites.net/">Projeto Elevador</a>
+</h3>
