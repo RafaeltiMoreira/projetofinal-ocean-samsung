@@ -35,6 +35,11 @@ html {
   }
 }
 
+.img-fluid {
+    width: 979em;
+    height: 450em;
+}
+
 .border-top {
   border-top: 1px solid #e5e5e5;
 }
