@@ -1,7 +1,7 @@
 # Jornada MS - Ocean Samsung 🚀️
 ## O projeto elevador foi desenvolvido na linguagem C# para obtenção do certificado de conclusão do curso Ocean Samsung Brasil.
 
-## Sobre o projeto ☕💻
+## About the project ☕💻
 
 - O projeto final em C# é um simulador de um elevador, nele terá as funções:
 - Inicializar: receber como parâmetros a capacidade do elevador e o total de andares no prédio (os elevadores sempre começam no térreo e vazio);
@@ -11,7 +11,7 @@
 - Descer: descer um andar (não deve descer se já estiver no térreo);
 - Observação - O usuário vai informar quantos andares o elevador possui e a capacidade de pessoas.
 
-## Tecnologia 🛠️
+## Technologies 🛠️
 
 - C# e
 - Visual Studio.
@@ -24,7 +24,7 @@
 
 [![Jornada MS | Ocean Samsung](https://imgur.com/UcxA00U.png)](https://github.com/RafaeltiMoreira/projetofinal-ocean-samsung "Jornada MS | Ocean Samsung")
 
-## Acesse o deploy 🌐
+## Access Deployment 🌐
 
 <h3>
     <a href="http://projetoelevador.azurewebsites.net/">Projeto Elevador</a>
