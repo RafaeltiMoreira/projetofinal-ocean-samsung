@@ -29,3 +29,5 @@
 <h3>
     <a href="http://projetoelevador.azurewebsites.net/">Projeto Elevador</a>
 </h3>
+
+## [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://github.com/RafaeltiMoreira/projetofinal-ocean-samsung/blob/main/LICENSE)
